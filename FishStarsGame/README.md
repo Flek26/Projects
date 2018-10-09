@@ -1,4 +1,5 @@
-## Game overview
+## Game overview 
+### Version 0.0.1
 
 Game made using Unity
 
@@ -27,5 +28,6 @@ Components ( Phyisical objects) in the game
 	- power ups
 	- extra lifes
 	
-	
+Game.exe: 
+- The current most up to date version of the game. 
 	
