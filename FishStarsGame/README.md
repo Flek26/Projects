@@ -1,5 +1,7 @@
 ## Game overview
 
+Game made using Unity
+
 In this game the player will be trying to catch objects that are falling from the trop of the screen while moving back and forth to avoid the bad objects. 
 Points will be scored when the player catches the desired object.
 Lives will be lost if the player catches a bad item or fails to catch a desired object.
