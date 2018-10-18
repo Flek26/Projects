@@ -37,22 +37,22 @@ Starting game configuration and character selection:
 [Imgur](https://i.imgur.com/SJQOhnc.png)
 
 First look at the board (word is randomly selected from the file words.txt) and player1 gets to make a guess:
-![alt text](https://imgur.com/bIfH6jO)
+[Imgur](https://i.imgur.com/bIfH6jO.png)
 
 Player1 (Luke) guessed a, still has three lives left, and the word in hangman form was updated
-![alt text](https://imgur.com/e4FhHcn)
+[Imgur](https://i.imgur.com/e4FhHcn.png)
 
 Bob guessed the letter b, it was not in the secret word so bob lost a life. This cycle repeats until all players are out of lives or the word is guessed.
-![alt text](https://imgur.com/eZwbNe0)
+[Imgur](https://i.imgur.com/eZwbNe0.png)
 
 If you try to guess a letter that has already been guessed:
-![alt text](https://imgur.com/OmpS94n)
+[Imgur](https://i.imgur.com/OmpS94n.png)
 
 If you guess the word:
-![alt text](https://imgur.com/WF5SMtc)
+[Imgur](https://i.imgur.com/WF5SMtc.png)
 
 Final guess was correct:
-![alt text](https://imgur.com/4v7Neow)
+[Imgur](https://i.imgur.com/4v7Neow.png)
 
 What happens when all lives are gone for everyone:
-![alt text](https://imgur.com/DqtJXWw)
+[Imgur](https://i.imgur.com/DqtJXWw.png)
