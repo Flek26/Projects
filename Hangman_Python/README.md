@@ -21,7 +21,7 @@ Components in the game
 	- prints the player that made the last guess
 	- prints the number of lives that player has
 	- prints the word in hangman form
-    		ex: if you guess 'a' the word "hangman" could look like "_ a _ _ _ a _"
+    		- ex: if you guess 'a' the word "hangman" could look like "_ a _ _ _ a _"
 	
 ## Files	
   
