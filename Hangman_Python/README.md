@@ -18,8 +18,10 @@ Components in the game
 	- able to guess strings to achive the entire word
 	
 - ASCII Board - Behaviors
+	- prints the player that made the last guess
+	- prints the number of lives that player has
 	- prints the word in hangman form
-    ex: the word "hangman" would look like "_ _ _ _ _ _ _"
+    		ex: if you guess 'a' the word "hangman" could look like "_ a _ _ _ a _"
 	
 ## Files	
   
