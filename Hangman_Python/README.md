@@ -2,6 +2,7 @@
 ### Version 0.0.1
 
 Game made using python
+(pictures below)
 
 In this game the player(s) will be trying to guess a word, that is selected at random, by guessing one letter at a time, or by taking a guess at the entire word at once.
 Each player will have a set number of lives that is initialized at the begining of the game.
