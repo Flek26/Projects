@@ -34,7 +34,7 @@ Components in the game
 
 ## Pictures
 Starting game configuration and character selection:
-![alt text](https://imgur.com/SJQOhnc)
+[Imgur](https://i.imgur.com/SJQOhnc.png)
 
 First look at the board (word is randomly selected from the file words.txt) and player1 gets to make a guess:
 ![alt text](https://imgur.com/bIfH6jO)
