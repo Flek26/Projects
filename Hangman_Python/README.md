@@ -1,25 +1,32 @@
-Game overview
-Version 0.0.1
-Game made using Unity
+## Game overview 
+### Version 0.0.1
 
-In this game the player will be trying to catch objects that are falling from the trop of the screen while moving back and forth to avoid the bad objects. Points will be scored when the player catches the desired object. Lives will be lost if the player catches a bad item or fails to catch a desired object. When all lives are lost - GAME OVER Objective of the game is to achive the highest score possible.
+Game made using python
 
-Components ( Phyisical objects) in the game
+In this game the player(s) will be trying to guess a word, that is selected at random, by guessing one letter at a time, or by taking a guess at the entire word at once.
+Each player will have a set number of lives that is initialized at the begining of the game.
+Lives will be lost if the player guesses a letter that is incorrect (not in the secret word).
+When all (player) lives are lost - that player can no longer guess.
+If all players lose lives, the game ends and their is no winner.
+Objective of the game is to be the player to guess the secret word!
 
--Player - Behaviors - Move left and right using the arrow keys and a,d keys - At screen edges, block movement or wrap around - When hit by undesired object, lose a life.
+Components in the game
 
-Falling Object - Behaviors
+-Player - Behaviors
+	- able to give their player a name or a alias
+	- able to guess single characters
+	- able to guess strings to achive the entire word
+	
+- ASCII Board - Behaviors
+	- prints the word in hangman form
+    ex: the word "hangman" would look like "_ _ _ _ _ _ _"
+	
+## Files	
+  
+### hangman.py: 
+- The current most up to date version of the game. This is a python file.
 
-Move from the top of the screen to the bottom
-When falling off the bottom, move back to the top and fall again
-When hiting a player, deduct a life, and move back to the top and fall again
-Other things to do:
-
-add sounds (voices, drops, catches, level up, life down, etc)
-add particle effects
-UI for score, lives, menus
-power ups
-extra lifes
-Game.exe:
-
-The current most up to date version of the game.
+### words.txt
+- List of 200(at the time of writing) random words.
+ - I plan to update this list with themed word lists down the line (ex: Halloween, Christmas, coding, animal, etc).
+	
