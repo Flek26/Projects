@@ -97,11 +97,11 @@ while total_lives > 0 or ''.join(word) == ''.join(current):
           if(k == guess):
             current[junk] = guess
           junk = junk + 1
-
       #Removes one life from the players life if they guessed a wrong letter
-      else:
+      if(guess not in word):
         name_dict['d2'][i] =  name_dict['d2'][i] - 1
         total_lives = total_lives - 1
+        letter.append(guess)
       
     #Print the board after the user is done, so it updates for the next player
       board( name_dict['d1'][i], name_dict['d2'][i] )
