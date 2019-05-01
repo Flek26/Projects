@@ -1,4 +1,12 @@
 %include "/usr/local/share/csc314/asm_io.inc"
+;__________________________________________________
+;						   ;
+;    Tile: Flek's Farming Sim x86  	           ;
+;    Version: 1.0.0				   ;
+;    Author: Luke Fleck				   ;
+;    Latest Build: May 1, 2019  		   ;
+;						   ;
+;__________________________________________________;
 
 
 ; the file that stores the initial state
