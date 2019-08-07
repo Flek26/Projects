@@ -1,6 +1,6 @@
 #! /usr/bin/python3
  
-#Based on Ocean Treasure game
+#Based on Ocean Treasure game and Mine sweeper
 '''
     Space Aliens
  
